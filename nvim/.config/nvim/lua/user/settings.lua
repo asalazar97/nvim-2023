@@ -8,7 +8,7 @@ local options = {
   conceallevel = 0, -- so that `` is visible in markdown files
   fileencoding = "utf-8", -- the encoding written to a file
   ignorecase = true, -- ignore case in search patterns
-  mouse = "", -- a = all mouse events nvi = normal, visual, insert
+  mouse = "a", -- a = all mouse events nvi = normal, visual, insert
   pumheight = 10, -- pop up menu height
   showmode = false, -- we don't need to see things like -- INSERT -- anymore
   showtabline = 0, -- always show tabs 2 yes 0 no
